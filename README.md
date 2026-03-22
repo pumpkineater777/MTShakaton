@@ -12,7 +12,7 @@ With this solution we managed to get prestigious third place in the event.
 
 ## Visual novel
 
-In this project we have quick version of the product that we were presenting on the hackathon which is visual novel. 
+In this project we have a quick version of the product that we were presenting on the hackathon which is visual novel. 
 
 The game showcase you can see in the file visual_novel_showcase.mkv
 
